@@ -1,0 +1,7 @@
+python_embedded/
+ffmpeg/
+output/
+*.zip
+_ffmpeg2pass*
+_ffmpeg_tmp*
+_python_tmp*
